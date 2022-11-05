@@ -1,4 +1,4 @@
-<h1 align="center">Prueba Inditex </h1>
+<h1 align="center">E-commerce </h1>
 
 ## Autor
 
